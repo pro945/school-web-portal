@@ -1,0 +1,8 @@
+target/
+build/
+dist/
+.nb-gradle/
+*.class
+.idea/
+.vscode/
+.DS_Store
